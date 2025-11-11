@@ -1,7 +1,7 @@
 ## Hi ,I am Ankit Rajput 👋
 
-🎓 B.tech Student
-💻 Currently working on developing my skills
+🎓 B.tech Student                                                                                                                                                             
+💻 Currently working on developing my skills                                                            
 🥏Buliding Interactive Front-end webs
 
 ### Tech Stacks 
