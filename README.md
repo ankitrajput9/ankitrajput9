@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi ,I am Ankit Rajput 👋
 
-<!--
-**ankitrajput9/ankitrajput9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.tech Student
+💻 Currently working on developing my skills
+🥏Buliding Interactive Front-end webs
 
-Here are some ideas to get you started:
+### Tech Stacks 
+**Languages - HTML , CSS , JAVASCRIPT ,REACT , REDUX
+**Librarys - TAILWINDCSS , GSAP ,REACT BITS
+**Tools - Github , Vs Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📮 Connect with me 
+[[!Linkdin]([www.linkedin.com/in/ankit-rajput-a42357255](https://www.linkedin.com/in/ankit-rajput-a42357255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))]
+
+
+Feel free to connect via email at "rajputankit9630@gmail.com" Let's collaborate and create something amazing! 😊🚀
