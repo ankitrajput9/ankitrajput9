@@ -5,7 +5,7 @@
 🥏Buliding Interactive Front-end webs
 
 ### Tech Stacks 
-**Languages - HTML , CSS , JAVASCRIPT ,REACT , REDUX
+**Languages - HTML , CSS , JAVASCRIPT ,REACT , REDUX                                                                                      
 **Librarys - TAILWINDCSS , GSAP ,REACT BITS
 **Tools - Github , Vs Code
 
