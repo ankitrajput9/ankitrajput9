@@ -40,7 +40,21 @@ A professional website built for a film production company.
 📱 Fully responsive design
 🔗 Live Demo: [Maa Vaishnavi Entertainmemts](https://freelance-1-sepia.vercel.app/) 
 🔗 GitHub Repo: (Add link)
-[🏕 FourLakes](https://ankitrajput9.github.io/FourLakes-Resort/)                                                                                                        
+
+## 🏨 2. FourLakes Resort Website                                                                                                                                   
+React | Tailwind CSS | Responsive UI
+A professional resort & hotel website built for FourLakes Resort, focused on clean design and user experience.
+
+### ✨ Features                                                                                                                                                 
+🏝 Beautiful landing page UI
+🛏 Rooms & amenities showcase
+🖼 Image gallery
+📞 Contact & inquiry section
+📱 Fully responsive (mobile, tablet, desktop)
+⚡ Fast performance with modern React setup
+🔗 Live Demo: [FourLakes](https://ankitrajput9.github.io/FourLakes-Resort/)   
+🔗 GitHub Repo: (Add repo link)                                                                                         
+                                                                                                     
                                                                                                           
 
 
