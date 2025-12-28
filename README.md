@@ -12,12 +12,12 @@
 ### 📮 Connect with me 
 [!Linkdin](https://www.linkedin.com/in/ankit-rajput-a42357255/)
 
-### 🚀 Featured Projects                                                                                                                                     
+# 🚀 Featured Projects                                                                                                                                     
 ## 🎧 1. Spotify Clone                                                                                                                                          
 React | Redux Toolkit | Tailwind CSS
 A fully functional Spotify-inspired music streaming app.
 
-#  ✨ Features                                                                                                                                                          
+### ✨ Features                                                                                                                                                          
 🎵 Play / Pause music
 ❤️ Like & Unlike songs
 📂 Dedicated Liked Songs page
@@ -31,7 +31,7 @@ A fully functional Spotify-inspired music streaming app.
 React | Tailwind | Dynamic Routing
 A professional website built for a film production company.
 
-# ✨ Features                                                                                                                                                                 
+###✨ Features                                                                                                                                                                 
 🎥 Projects & gallery showcase
 🗂 Dynamic routing
 📸 Category-based gallery filter
