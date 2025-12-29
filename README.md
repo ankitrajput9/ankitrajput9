@@ -24,14 +24,14 @@ A fully functional Spotify-inspired music streaming app.
 🎛 Music player with seek bar
 🧠 Global state with Redux
 📱 Fully responsive UI
-🔗 Live Demo: (Add link)
-🔗 GitHub Repo: (This repo)
+🔗 Live Demo: [Spotify-clone](https://spotify-clone-zeta-nine-47.vercel.app/)
+🔗 GitHub Repo:[ See...](https://github.com/ankitrajput9/spotify-clone.git)
 
 ## 🏢 3. Production Company Website                                                                                                                              
 React | Tailwind | Dynamic Routing
 A professional website built for a film production company.
 
-###✨ Features                                                                                                                                                                 
+### ✨ Features                                                                                                                                                                 
 🎥 Projects & gallery showcase
 🗂 Dynamic routing
 📸 Category-based gallery filter
@@ -39,7 +39,7 @@ A professional website built for a film production company.
 🌗 Light & Dark theme ready
 📱 Fully responsive design
 🔗 Live Demo: [Maa Vaishnavi Entertainmemts](https://freelance-1-sepia.vercel.app/) 
-🔗 GitHub Repo: (Add link)
+🔗 GitHub Repo: [(See...)](https://github.com/ankitrajput9/Freelance-1.git)
 
 ## 🏨 2. FourLakes Resort Website                                                                                                                                   
 React | Tailwind CSS | Responsive UI
@@ -53,7 +53,7 @@ A professional resort & hotel website built for FourLakes Resort, focused on cle
 📱 Fully responsive (mobile, tablet, desktop)
 ⚡ Fast performance with modern React setup
 🔗 Live Demo: [FourLakes](https://ankitrajput9.github.io/FourLakes-Resort/)   
-🔗 GitHub Repo: (Add repo link)                                                                                         
+🔗 GitHub Repo: [See....](https://github.com/ankitrajput9/FourLakes-Resort.git))                                                                                         
                                                                                                      
                                                                                                           
 
