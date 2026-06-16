@@ -1,18 +1,17 @@
-
 # Hello, I'm Ankit 👋
 
 ### MERN Stack Developer
 
 Building modern web applications, APIs, and real-time systems. Focused on performance, scalability, and clean user experiences.
 
-<p align="left">
-  <a href="[YOUR_PORTFOLIO_LINK](https://ankit-rajput-portfolio.vercel.app/)" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-E8BF6A?style=for-the-badge&labelColor=111111" alt="Portfolio"/>
+<p>
+  <a href="https://ankit-rajput-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Website?style=for-the-badge&labelColor=000000&color=E8BF6A" />
+  </a>
+  <a href="mailto:rajputankit9630@gmail.com">
+    <img src="https://img.shields.io/badge/📩_Contact_Me-000000?style=for-the-badge" />
   </a>
 </p>
-
-
-
 
 
 ## ◈ About Me
