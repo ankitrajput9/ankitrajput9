@@ -50,14 +50,32 @@ developing real-time and production-ready web applications.
 
 ## ◈ Featured Projects
 
-🎧 Spotify Clone  
-React • Redux • Tailwind CSS
+### 🎧 [Spotify Clone](https://spotify-clone-zeta-nine-47.vercel.app/)
 
-🏢 Production Company Website  
-React • Tailwind CSS
+Music streaming application built with React, Redux Toolkit and Tailwind CSS.
 
-🏨 FourLakes Resort  
-React • Tailwind CSS
+[Live Demo](https://spotify-clone-zeta-nine-47.vercel.app/) • [Source Code](https://github.com/ankitrajput9/spotify-clone.git)
 
-🤖 AI Code Editor  
-MERN • Socket.IO • AI
+---
+
+### 🏢 [Production Company Website](https://freelance-1-sepia.vercel.app/)
+
+Professional production company website with dynamic routing and content showcase.
+
+[Live Demo](https://freelance-1-sepia.vercel.app/) • [Source Code](https://github.com/ankitrajput9/Freelance-1.git)
+
+---
+
+### 🏨 [FourLakes Resort](https://ankitrajput9.github.io/FourLakes-Resort/)
+
+Modern resort website focused on responsive design and user experience.
+
+[Live Demo](https://ankitrajput9.github.io/FourLakes-Resort/) • [Source Code](https://github.com/ankitrajput9/FourLakes-Resort.git)
+
+---
+
+### 🤖 AI Code Editor
+
+AI-powered collaborative code editor with real-time features.
+
+[Source Code](YOUR_GITHUB_LINK)
