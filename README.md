@@ -1,3 +1,11 @@
+# Hello, I'm Ankit 👋
+
+MERN Stack Developer
+
+Building modern web applications, APIs, and real-time systems.
+Focused on performance, scalability, and clean user experiences.
+
+
 ## ◈ About Me
 
 I enjoy building full-stack applications that combine clean interfaces
