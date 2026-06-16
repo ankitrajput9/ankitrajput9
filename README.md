@@ -1,108 +1,63 @@
-## Hi, I am Ankit Rajput 👋
+## ◈ About Me
 
-🎓 B.Tech Student
-💻 Currently working on developing my skills
-🥏 Building Interactive Front-end & Full-Stack Applications
+I enjoy building full-stack applications that combine clean interfaces
+with scalable backend architecture.
 
----
+Currently exploring Redis, Socket.IO, WebRTC, and system design while
+developing real-time and production-ready web applications.
 
-### 🚀 Tech Stacks
+• B.Tech Student
+• Full Stack Development
+• API Development
+• Real-Time Applications
 
-**💻 Languages**
-HTML, CSS, JavaScript
+## ◈ Tech Stack
 
-**⚡ Frontend**
-React, Redux
+### Front-end
 
-**🧠 Backend**
-Node.js, Express.js
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
+![GSAP](https://img.shields.io/badge/GSAP-000?style=for-the-badge)
 
-**🗄 Database**
-MongoDB
+### Back-end
 
-**📡 Real-Time & Communication**
-Socket.IO, WebRTC
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-000?style=for-the-badge&logo=socketdotio)
 
-**📧 Tools & Services**
-Nodemailer,Imagekit
+### Database
 
-**🎨 Libraries & Styling**
-Tailwind CSS, GSAP, React Bits
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)
 
-**🛠 Tools**
-GitHub, VS Code
+### Tools
 
----
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
 
-### 📮 Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/ankit-rajput-a42357255/)
+## ◈ Connect
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankit-rajput-a42357255/)
 
-# 🚀 Featured Projects
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/a_nkit_rajput_/)
 
-## 🎧 1. Spotify Clone
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](mailto:rajputankit9630@gmail.com)
 
-React | Redux Toolkit | Tailwind CSS
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/ankitrajput9)
 
-A fully functional Spotify-inspired music streaming app.
+## ◈ Featured Projects
 
-### ✨ Features
+🎧 Spotify Clone  
+React • Redux • Tailwind CSS
 
-🎵 Play / Pause music
-❤️ Like & Unlike songs
-📂 Dedicated Liked Songs page
-🎛 Music player with seek bar
-🧠 Global state with Redux
-📱 Fully responsive UI
+🏢 Production Company Website  
+React • Tailwind CSS
 
-🔗 Live Demo: [Spotify Clone](https://spotify-clone-zeta-nine-47.vercel.app/)
-🔗 GitHub Repo: [See...](https://github.com/ankitrajput9/spotify-clone.git)
+🏨 FourLakes Resort  
+React • Tailwind CSS
 
----
-
-## 🏢 2. Production Company Website
-
-React | Tailwind | Dynamic Routing
-
-A professional website built for a film production company.
-
-### ✨ Features
-
-🎥 Projects & gallery showcase
-🗂 Dynamic routing
-📸 Category-based gallery filter
-🧾 Contact form with Google reCAPTCHA
-🌗 Light & Dark theme ready
-📱 Fully responsive design
-
-🔗 Live Demo: [Maa Vaishnavi Entertainments](https://freelance-1-sepia.vercel.app/)
-🔗 GitHub Repo: [See...](https://github.com/ankitrajput9/Freelance-1.git)
-
----
-
-## 🏨 3. FourLakes Resort Website
-
-React | Tailwind CSS | Responsive UI
-
-A professional resort & hotel website focused on clean design and user experience.
-
-### ✨ Features
-
-🏝 Beautiful landing page UI
-🛏 Rooms & amenities showcase
-🖼 Image gallery
-📞 Contact & inquiry section
-📱 Fully responsive (mobile, tablet, desktop)
-⚡ Fast performance with modern React setup
-
-🔗 Live Demo: [FourLakes](https://ankitrajput9.github.io/FourLakes-Resort/)
-🔗 GitHub Repo: [See...](https://github.com/ankitrajput9/FourLakes-Resort.git)
-
----
-
-### ✉️ Contact
-
-Feel free to connect via email at **[rajputankit9630@gmail.com](mailto:rajputankit9630@gmail.com)**
-Let’s collaborate and create something amazing! 😊🚀
+🤖 AI Code Editor  
+MERN • Socket.IO • AI
