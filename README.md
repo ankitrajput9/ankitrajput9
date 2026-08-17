@@ -66,6 +66,13 @@ developing real-time and production-ready web applications.
 
 ## ◈ Featured Projects
 
+### 🤖GENERATIVE AI - CODIUM
+
+AI-powered collaborative ,ask any thing.
+
+[Source Code](https://github.com/ankitrajput9/Generative-AI.git)  • [Live Demo](https://codium-phi.vercel.app/)
+
+
 ### 🎧 [Spotify Clone](https://spotify-clone-zeta-nine-47.vercel.app/)
 
 Music streaming application built with React, Redux Toolkit and Tailwind CSS.
@@ -78,7 +85,7 @@ Music streaming application built with React, Redux Toolkit and Tailwind CSS.
 
 Professional production company website with dynamic routing and content showcase.
 
-[Live Demo](https://freelance-1-sepia.vercel.app/) • [Source Code](https://github.com/ankitrajput9/Freelance-1.git)
+[Live Demo](https://vaishnavi-entertainments.vercel.app/) • [Source Code](https://github.com/ankitrajput9/Freelance-1.git)
 
 ---
 
@@ -90,8 +97,4 @@ Modern resort website focused on responsive design and user experience.
 
 ---
 
-### 🤖 AI Code Editor
 
-AI-powered collaborative code editor with real-time features.
-
-[Source Code](YOUR_GITHUB_LINK)
