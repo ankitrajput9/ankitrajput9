@@ -72,6 +72,7 @@ AI-powered collaborative ,ask any thing.
 
 [Source Code](https://github.com/ankitrajput9/Generative-AI.git)  • [Live Demo](https://codium-phi.vercel.app/)
 
+---
 
 ### 🎧 [Spotify Clone](https://spotify-clone-zeta-nine-47.vercel.app/)
 
